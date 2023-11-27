@@ -1,0 +1,26 @@
+header {
+    background-color: blue;
+    text-align: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article img {
+    width: 200px;
+    float: left;
+    margin: 10px 20px 10px 20px;
+}
+
+.clear1 {
+    clear: left;
+}
+.clear2 {
+    clear: left;
+}
